@@ -2,8 +2,12 @@
 neuroanatomy and basic functions
 
 1. cortex
-2. basal ggl
-3. hypothalamus
+    - frontal
+    - temporal
+    - parietal
+    - occipital
+3. basal ggl
+4. hypothalamus
 5. thalamus
 6. limbic system
 7. midbrain
@@ -15,5 +19,22 @@ neuroanatomy and basic functions
 13. ascending tracts
 14. descending tracts
 15. autonomic ns
-16. cranial nerves
+    - autonomic
+    - sympathetic
+    - parasympathetic
+    - enteric
+17. cranial nerves
+    - CN I.
+    - CN II.
+    - CN III.
+    - CN IV.
+    - CN V.
+    - CN VI.
+    - CN VII.
+    - CN VIII.
+    - CN IX.
+    - CN X.
+    - CN XI.
+    - CN XII.
+    - overview
 
