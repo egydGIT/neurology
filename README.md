@@ -21,7 +21,9 @@ neuroanatomy and basic functions
 15. autonomic ns
     - autonomic
     - sympathetic
+        - adrenergic
     - parasympathetic
+        - cholinergic
     - enteric
 17. cranial nerves
     - CN I.
@@ -37,4 +39,8 @@ neuroanatomy and basic functions
     - CN XI.
     - CN XII.
     - overview
-
+18. plexus
+    - cervical
+    - brachial
+    - lumbar
+    - sacral
